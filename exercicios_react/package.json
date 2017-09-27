@@ -4,7 +4,7 @@
   "description": "Estudo sobre React",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "webpack-dev-server --progress --colors --inline --hot"
   },
   "author": "Rudnei Carlos de Oliveira",
   "license": "ISC",
