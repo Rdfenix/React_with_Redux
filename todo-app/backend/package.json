@@ -5,7 +5,9 @@
   "main": "src/loader.js",
   "scripts": {
     "dev": "nodemon",
-    "production": "pm2 start src/loader.js --name todo-app -f"
+    "production": "pm2 start src/loader.js --name todo-app -f",
+    "monit": "./node_modules/.bin/pm2 monit",
+    "status": "./node_modules/.bin/pm2 status"
   },
   "repository": {
     "type": "git",
