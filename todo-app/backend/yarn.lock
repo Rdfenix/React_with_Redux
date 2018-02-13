@@ -1522,10 +1522,6 @@ mongoose@^5.0.3:
     regexp-clone "0.0.1"
     sliced "1.0.1"
 
-mongose@^0.0.2-security:
-  version "0.0.2-security"
-  resolved "https://registry.yarnpkg.com/mongose/-/mongose-0.0.2-security.tgz#34640fa153c935371993ad8c0cc1a96f35f8be9b"
-
 mpath@0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/mpath/-/mpath-0.3.0.tgz#7a58f789e9b5fd3c94520634157960f26bd5ef44"
