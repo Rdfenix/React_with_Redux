@@ -1,0 +1,29 @@
+{
+  "name": "my-money-app",
+  "version": "1.0.0",
+  "description": "Aplicação de estudo sobre o react e redux - My Money App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rdfenix/React_with_Redux.git"
+  },
+  "author": "Rudnei Carlos de Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rdfenix/React_with_Redux/issues"
+  },
+  "homepage": "https://github.com/Rdfenix/React_with_Redux#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-query-int": "^2.0.0",
+    "lodash": "^4.17.5",
+    "mongoose": "^5.0.6",
+    "mongoose-paginate": "^5.0.3",
+    "node-restful": "^0.2.6",
+    "pm2": "^2.9.3"
+  }
+}
