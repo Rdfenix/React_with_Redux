@@ -10,7 +10,7 @@ export default (props) => (
         <Header />
         <SideBar />
         <div className="content-wrapper">
-            <h1>Conteudo</h1>
+            <Routes />
         </div>
         <Footer />
     </div>
